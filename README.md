@@ -3,6 +3,7 @@
 [![Custom Element: Web Component](https://img.shields.io/badge/Element-%3Ctoken--budget--widget%3E-indigo.svg)](src/token-widget.js)
 [![Zero Dependency: Vanilla JS](https://img.shields.io/badge/Dependencies-Zero%20(Native)-green.svg)](package.json)
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](package.json)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-blacktapeproject263--alt%2FTokenFlow-blue.svg)](https://github.com/blacktapeproject263-alt/TokenFlow)
 
 Легковесный, автономный веб-компонент (Custom Element) для интерактивного мониторинга расхода и остатка токенов контекстного окна в сессиях **Google Antigravity 2.0** и LLM-интерфейсах (Gemini, Claude, GPT).
 
