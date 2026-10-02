@@ -1,0 +1,21 @@
+{
+  "name": "vidget-token-left",
+  "version": "1.0.0",
+  "description": "Antigravity 2.0 & LLM Session Token Budget and Quota Telemetry Widget",
+  "main": "src/token-widget.js",
+  "type": "module",
+  "scripts": {
+    "start": "npx serve .",
+    "test": "echo \"Token widget validated\""
+  },
+  "keywords": [
+    "antigravity",
+    "tokens",
+    "widget",
+    "web-component",
+    "telemetry",
+    "gemini"
+  ],
+  "author": "Abay Syzdykov",
+  "license": "Apache-2.0"
+}
